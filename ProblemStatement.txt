@@ -1,0 +1,15 @@
+MapReduce Use Case – Uber Data Analysis
+
+The Uber dataset consists of four columns; they are dispatching_base_number, date, active_vehicles and trips.
+
+Problem Statement 1:
+
+In this problem statement, we will find the days on which each basement has more trips.
+
+
+Problem Statement 2:
+
+In this problem statement, we will find the days on which each basement has more number of active vehicles.
+
+
+
